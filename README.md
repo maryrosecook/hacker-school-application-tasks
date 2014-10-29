@@ -27,3 +27,7 @@ Write a function that takes some Lisp code and returns an abstract syntax tree. 
 ## Tic Tac Toe game
 
 Write a program that lets two humans play a game of Tic Tac Toe in a terminal.  The program should let the players take turns to input their moves.  The program should report the outcome of the game.
+
+## Fibonacci sequence generator
+
+Write a function that takes a number `n` and returns the nth Fibonacci number.
