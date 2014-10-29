@@ -12,13 +12,13 @@ Write a function that can search a tree of nodes, depth first. The function shou
 
 For example, if the function is passed `g` and a tree with the structure below, it should return the node named `g`.
 
-       a
-      / \
-     b   c
-    /|\   \
-   d e f   g
-           |
-           h
+        a
+       / \
+      b   c
+     /|\   \
+    d e f   g
+            |
+            h
 
 ## Lisp parser
 
