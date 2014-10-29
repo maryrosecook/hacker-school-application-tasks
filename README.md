@@ -6,7 +6,7 @@ Write code to implement one of the programs below. Use a programming lanugage yo
 
 Write a program that runs a server that is accessible on `http://localhost:4000/`.  When your server receives a request on `http://localhost:4000/set?somekey=somevalue` it should store the passed key and value in memory.  When it receives a request on `http://localhost:4000/get?key=somekey` it should return the value stored at `somekey`.
 
-## Depth-first search
+## Depth-first searcher
 
 Write a function that can search a tree of nodes, depth first. The function should take a node name and tree.  If it finds the named node, it should return the node.
 
