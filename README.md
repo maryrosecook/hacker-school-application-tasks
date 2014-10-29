@@ -31,3 +31,9 @@ Write a program that lets two humans play a game of Tic Tac Toe in a terminal.  
 ## Fibonacci sequence generator
 
 Write a function that takes a number `n` and returns the nth Fibonacci number.
+
+## Mapper
+
+Write a function that takes a function and an array. It should make a new, empty array, run the function on each element in the original array and insert each return value into the new array. It should return the new array.
+
+For example, if your function is passed an array `[1, 2, 3]` and a function that returns the square of the number it is passed, your function should return `[1, 4, 9]`.
