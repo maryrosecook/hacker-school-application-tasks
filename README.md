@@ -23,3 +23,7 @@ For example, if the function is passed `g` and a tree with the structure below, 
 ## Lisp parser
 
 Write a function that takes some Lisp code and returns an abstract syntax tree.  The AST should represent the structure of the code and the meaning of each token.  For example, if your function is passed `"(first (1 (+ 2 3) 9))"`, it should return something like `["first", [1, ["+", 2, 3], 9]]`.  In this example AST, the square brackets indicate arrays.
+
+## Tic Tac Toe game
+
+Write a program that lets two humans play a game of Tic Tac Toe in a terminal.  The program should let the players take turns to input their moves.  The program should report the outcome of the game.
